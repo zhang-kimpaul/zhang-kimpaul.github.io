@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+My name is Zhang Jinbao.
+
 I'm a second year undergraduate student from [School of SIST](https://sist.ustc.edu.cn/), [University of Science and Tecnology of China](https://www.ustc.edu.cn/). My research interest includes computer vision, aiming at 3d object detection.
 
 
