@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Zhang Jinbao / Personal Homepage"
+avator                   :
 title_separator          : "-"
 name                     : &name "Zhang Jinbao"
 description              : &description "personal description"
